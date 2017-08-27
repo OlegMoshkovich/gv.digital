@@ -6,9 +6,9 @@
 }
 
 body{
-	font-family: "Ubuntu", sans-serif;
-	font-size: 100%;
-	background:#f8f8f8;
+	font-family: "Courier New", sans-serif;
+	font-size: 200%;
+	background:white;
 }
 
 a{
@@ -29,6 +29,7 @@ button {
 p{
 	line-height: 2em;
 	margin:0 0 20px;
+
 	text-align: center;
 }
 
@@ -39,20 +40,22 @@ hr{
 }
 
 .title{
-	font-size: 4em;
+
+	font: 15px sans-serif;
+  font-family: 'Helvetica', sans-serif;
 }
 
 .wrap{
-	max-width: 600px;
-	margin:50px auto;
+	max-width: 1000px;
+	margin:100px auto;
 }
 
 .type-wrap{
 	margin:10px auto;
-	padding:20px;
-	background:#f0f0f0;
-	border-radius:5px;
-	border:#CCC 1px solid;
+	padding:10px;
+	background:white;
+
+	border:#white 1px solid;
 }
 
 .links{

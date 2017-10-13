@@ -6,7 +6,6 @@
    src: url(Fonts/BebasNeue.otf);
 }
 
-
 *{
 	padding:0;
 	margin:0;
@@ -22,6 +21,7 @@ a{
 	text-decoration: none;
 	color:white
 }
+
 a:hover{
 	color:#999;
 }
@@ -46,15 +46,14 @@ hr{
 }
 
 .title{
-
 	font: 15px sans-serif;
   font-family: 'Helvetica', sans-serif;
-
 }
 
 .wrap{
 	max-width: 1000px;
 	margin:100px auto;
+  padding:200px;
 }
 
 .type-wrap{

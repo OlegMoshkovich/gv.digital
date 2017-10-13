@@ -8,7 +8,7 @@
 
 body{
 	font-family: 'BebasNeue';
-	font-size: 300%;
+	font-size: 280%;
   color:white;
 	background:black;
 }
@@ -21,6 +21,6 @@ body{
 
 .type-wrap{
   padding-top:300px;
-  padding-left: 40px;
+  padding-left: 20px;
 	background:black;
 }

@@ -4,6 +4,7 @@
 @font-face {
    font-family: 'BebasNeue';
    src: url(Fonts/BebasNeue.otf);
+
 }
 
 body{
@@ -11,6 +12,7 @@ body{
 	font-size: 280%;
   color:white;
 	background:black;
+  letter-spacing: 2px;
 }
 
 .wrap{
